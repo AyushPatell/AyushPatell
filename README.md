@@ -22,6 +22,9 @@
 ### 🎮 Serious Game for Student Recruitment
 A 3D virtual campus simulation built using **Unreal Engine 5**, complete with interactive quests, authentication system, and engagement analytics.
 
+### 📦 ByteNode – Distributed File Storage System (Django + IPFS)
+A distributed file storage system using Django and IPFS, with secure authentication, file chunking, self-healing, and REST APIs for scalable, redundant, and resilient storage.
+
 ### 🏠 HomeEase
 A dynamic home services platform with a **Python/Django** back end, **PHP** integrations, and responsive UI using **HTML/CSS/JS**.
 
