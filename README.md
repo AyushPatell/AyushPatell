@@ -8,12 +8,12 @@
 
 ## 🔧 Technical Skills
 
-- **Languages:** Python, JavaScript, C, PHP  
-- **Frameworks:** Django, PHP  
-- **Web Development:** HTML, CSS, Bootstrap  
-- **Databases:** SQL, MySQL  
-- **Tools & Tech:** Selenium, REST APIs, IPFS, Unreal Engine 5, Unity, Microsoft Office  
-- **Specialties:** Distributed Systems, Secure Authentication, CRUD systems, 3D Modeling
+- **Languages & Framework:**  Python, JavaScript, C, C++, PHP, HTML, CSS, Django  
+- **Back-End & Web Developmen:**  Django (Python), PHP, RESTful APIs, Third-party API Integration  
+- **Data & Storage Systems:** SQL, MySQL, IPFS (InterPlanetary File System); skilled in relational schema design, complex queries, and decentralized storage 
+- **Automation Testing:** Selenium  
+- **Game Development:**  Unreal Engine 5, Unity, 3D Modeling
+- **Tools & Technology:** Microsoft Office Suite [Word, PowerPoint, Excel, Outlook, Teams, OneNote], PowerBI, Vertex AI, Azure AI, IBM watsonx, Hugging Face, React, Graph QL
 
 ---
 
